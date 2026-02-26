@@ -19,3 +19,5 @@ How to Run
 Install dependencies: pip install pandas streamlit
 
 Run the dashboard: streamlit run dashboard.py
+
+Status: Live on GitHub!
